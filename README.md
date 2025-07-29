@@ -75,3 +75,12 @@ If available: [Yingying Huang 0000-0002-0149-6875](https://orcid.org/
 - Add modeling-based GitHub projects derived from these clinical studies  
 - Reproduce core analysis in Python + ML  
 - Connect to future projects in Alzheimer's Disease, MIMIC-IV, or MRI modeling
+
+---
+
+## 🏆 Other Achievements
+
+- 🧾 2 Authorized Utility Model Patents (China)
+- 🎖️ National Scholarship (2021), Municipal Outstanding Graduate (2022)
+
+
